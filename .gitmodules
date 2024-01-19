@@ -1,0 +1,3 @@
+[submodule "ASM-ATMega32"]
+	path = ASM-ATMega32
+	url = git@github.com:Man2Dev/ASM-ATMega32.git
